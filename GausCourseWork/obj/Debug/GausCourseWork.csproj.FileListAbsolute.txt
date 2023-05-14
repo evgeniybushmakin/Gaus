@@ -1,0 +1,7 @@
+C:\Users\Женя\source\repos\GausCourseWork\GausCourseWork\bin\Debug\GausCourseWork.exe.config
+C:\Users\Женя\source\repos\GausCourseWork\GausCourseWork\bin\Debug\GausCourseWork.exe
+C:\Users\Женя\source\repos\GausCourseWork\GausCourseWork\bin\Debug\GausCourseWork.pdb
+C:\Users\Женя\source\repos\GausCourseWork\GausCourseWork\obj\Debug\GausCourseWork.csproj.AssemblyReference.cache
+C:\Users\Женя\source\repos\GausCourseWork\GausCourseWork\obj\Debug\GausCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Женя\source\repos\GausCourseWork\GausCourseWork\obj\Debug\GausCourseWork.exe
+C:\Users\Женя\source\repos\GausCourseWork\GausCourseWork\obj\Debug\GausCourseWork.pdb

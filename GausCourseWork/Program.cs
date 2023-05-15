@@ -12,11 +12,25 @@ namespace GausCourseWork
     {
         static void Main()
         {
+            int n = 0;
+
             // Запрашиваем у пользователя размерность матрицы A и вектора b
 m:          Console.Write("Введите размерность матрицы A и вектора b | A(N x N), b(N) |: ");
-            int n = int.Parse(Console.ReadLine());
+            if (int.TryParse(Console.ReadLine(), out n))
+            {
+                n = int.Parse(Console.ReadLine());
+            }
+            else
+            {
+                Console.Clear();
+                Console.WriteLine("Некорректный формат данных! Нажмите Enter и повторите ввод.");
+                Console.ReadLine();
+                Console.Clear();
+                goto m;
+            }
             int m = n;
             Console.Clear();
+
             // Инициализируем матрицу A и вектор b
             double[,] A = new double[n, n];
             double[] b = new double[m];
